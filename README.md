@@ -119,29 +119,7 @@ C#
 
 ---
 
-# 📁 Repository Structure
 
-```text
-DSA-Journey-CSharp/
-│
-├── 01-Time-Complexity/
-├── 02-Arrays/
-├── 03-Strings/
-├── 04-Searching/
-├── 05-Sorting/
-├── 06-Recursion/
-├── 07-LinkedList/
-├── 08-Stack/
-├── 09-Queue/
-├── 10-Hashing/
-├── 11-Trees/
-├── 12-BST/
-├── 13-Heap/
-├── 14-Graph/
-├── 15-Greedy/
-├── 16-DynamicProgramming/
-└── 17-BitManipulation/
-```
 
 ---
 
