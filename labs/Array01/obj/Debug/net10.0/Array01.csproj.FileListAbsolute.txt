@@ -1,0 +1,15 @@
+D:\DSA\labs\Array01\bin\Debug\net10.0\Array01.exe
+D:\DSA\labs\Array01\bin\Debug\net10.0\Array01.deps.json
+D:\DSA\labs\Array01\bin\Debug\net10.0\Array01.runtimeconfig.json
+D:\DSA\labs\Array01\bin\Debug\net10.0\Array01.dll
+D:\DSA\labs\Array01\bin\Debug\net10.0\Array01.pdb
+D:\DSA\labs\Array01\obj\Debug\net10.0\Array01.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA\labs\Array01\obj\Debug\net10.0\Array01.AssemblyInfoInputs.cache
+D:\DSA\labs\Array01\obj\Debug\net10.0\Array01.AssemblyInfo.cs
+D:\DSA\labs\Array01\obj\Debug\net10.0\Array01.csproj.CoreCompileInputs.cache
+D:\DSA\labs\Array01\obj\Debug\net10.0\Array01.sourcelink.json
+D:\DSA\labs\Array01\obj\Debug\net10.0\Array01.dll
+D:\DSA\labs\Array01\obj\Debug\net10.0\refint\Array01.dll
+D:\DSA\labs\Array01\obj\Debug\net10.0\Array01.pdb
+D:\DSA\labs\Array01\obj\Debug\net10.0\Array01.genruntimeconfig.cache
+D:\DSA\labs\Array01\obj\Debug\net10.0\ref\Array01.dll
