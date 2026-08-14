@@ -5,8 +5,6 @@ namespace Maxss;
 
 public class Max()
 {
-   
-
     public int CalculateMaxOfarray()
     {
          ARRAY obj1=new ARRAY();//object 
