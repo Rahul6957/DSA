@@ -9,10 +9,10 @@ class Program
     
    // Max obj =new Max();
    // obj.CalculateMaxOfarray();
-    TheSum obj = new TheSum();
+    //TheSum obj = new TheSum();
 
-    int Sha1=obj.Sum();
-    Console.WriteLine(Sha1);
+    //int Sha1=obj.Sum();
+   // Console.WriteLine(Sha1);
 
   }
 }
