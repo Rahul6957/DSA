@@ -2,6 +2,7 @@
 using  ItIsTheSum;
 using System.Runtime.Intrinsics.Arm;
 using RArray;
+using EO;
 using System.Security.Cryptography.X509Certificates;
 class Program
 {
@@ -16,8 +17,13 @@ class Program
    // Console.WriteLine(Sha1);
 
 
-Reverce ob3=new Reverce();
-   int s1=ob3.PrintReverce();
-   Console.WriteLine(s1);
+//Reverce ob3=new Reverce();
+  // int s1=ob3.PrintReverce();
+  // Console.WriteLine(s1);     
+
+   EvenOdd on=new  EvenOdd();
+     on.FindEvenOdd();
+
+
   }
 }
