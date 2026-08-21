@@ -1,0 +1,15 @@
+D:\DSA\labs\String02\bin\Debug\net10.0\String02.exe
+D:\DSA\labs\String02\bin\Debug\net10.0\String02.deps.json
+D:\DSA\labs\String02\bin\Debug\net10.0\String02.runtimeconfig.json
+D:\DSA\labs\String02\bin\Debug\net10.0\String02.dll
+D:\DSA\labs\String02\bin\Debug\net10.0\String02.pdb
+D:\DSA\labs\String02\obj\Debug\net10.0\String02.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA\labs\String02\obj\Debug\net10.0\String02.AssemblyInfoInputs.cache
+D:\DSA\labs\String02\obj\Debug\net10.0\String02.AssemblyInfo.cs
+D:\DSA\labs\String02\obj\Debug\net10.0\String02.csproj.CoreCompileInputs.cache
+D:\DSA\labs\String02\obj\Debug\net10.0\String02.sourcelink.json
+D:\DSA\labs\String02\obj\Debug\net10.0\String02.dll
+D:\DSA\labs\String02\obj\Debug\net10.0\refint\String02.dll
+D:\DSA\labs\String02\obj\Debug\net10.0\String02.pdb
+D:\DSA\labs\String02\obj\Debug\net10.0\String02.genruntimeconfig.cache
+D:\DSA\labs\String02\obj\Debug\net10.0\ref\String02.dll
