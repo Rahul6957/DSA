@@ -3,6 +3,7 @@ using System.Security.Cryptography;
 using one;
 using two;
 using  Three;
+using f;
 
 public class program
 {
@@ -16,8 +17,10 @@ public class program
      //   reverse s3=new reverse();
      //  s3.revTOSTR();
 
-     Palindrome de= new Palindrome();
-     de.checkPalindrome();
+     //Palindrome de= new Palindrome();
+     //de.checkPalindrome();
 
+Charfrequency de=new Charfrequency();
+de.Frequency();
     }
 }
